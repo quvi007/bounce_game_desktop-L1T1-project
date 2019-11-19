@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1563612932 source:c:\users\user\desktop\igraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+
+1563087260 c:\users\user\desktop\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568039448 source:c:\users\quvi\desktop\igraphics modified\imain.cpp
+	"iGraphics.h"
+	"block.h"
+	"ball.h"
+	"menu.h"
+	"level1.h"
+
+1567440318 c:\users\quvi\desktop\igraphics modified\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\quvi\desktop\igraphics modified\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\quvi\desktop\igraphics modified\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567439970 c:\users\quvi\desktop\igraphics modified\block.h
+
+1568048898 c:\users\quvi\desktop\igraphics modified\level1.h
+
+1567627596 c:\users\quvi\desktop\igraphics modified\level2.h
+
+1567064062 c:\users\quvi\desktop\igraphics modified\level3.h
+
+1568036650 c:\users\quvi\desktop\igraphics modified\ball.h
+
+1567855476 c:\users\quvi\desktop\igraphics modified\menu.h
+
+1568525534 source:c:\users\quvi\desktop\igraphics modified - copy (2)\imain.cpp
+	"iGraphics.h"
+	"iShowImg.h"
+	"menu.h"
+	<math.h>
+	"level1.h"
+
+1567440318 c:\users\quvi\desktop\igraphics modified - copy (2)\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\quvi\desktop\igraphics modified - copy (2)\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\quvi\desktop\igraphics modified - copy (2)\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567439970 c:\users\quvi\desktop\igraphics modified - copy (2)\block.h
+
+1568362599 c:\users\quvi\desktop\igraphics modified - copy (2)\ball.h
+
+1568524179 c:\users\quvi\desktop\igraphics modified - copy (2)\menu.h
+
+1568525283 c:\users\quvi\desktop\igraphics modified - copy (2)\level1.h
+
+1568517699 c:\users\quvi\desktop\igraphics modified - copy (2)\ishowimg.h
+	<stdlib.h>
+
+1568526745 source:c:\users\quvi\desktop\bounce\bounce game source code\imain.cpp
+	"iGraphics.h"
+	"iShowImg.h"
+	"menu.h"
+	<math.h>
+	"level1.h"
+
+1567440318 c:\users\quvi\desktop\bounce\bounce game source code\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\quvi\desktop\bounce\bounce game source code\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\quvi\desktop\bounce\bounce game source code\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568517699 c:\users\quvi\desktop\bounce\bounce game source code\ishowimg.h
+	<stdlib.h>
+
+1568524179 c:\users\quvi\desktop\bounce\bounce game source code\menu.h
+
+1568527122 c:\users\quvi\desktop\bounce\bounce game source code\level1.h
+
